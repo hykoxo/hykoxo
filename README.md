@@ -1,7 +1,7 @@
-### Hey, je suis HyKo 👋🏼
+### Hi, I'm HyKo 👋🏼
 
-Je suis un développeur basé au Québec, Canada, et je suis passionné par la création de solutions innovantes.
+I am a developer based in Québec, Canada, and I am passionate about creating innovative solutions.
 
-- Consulte mon [site web](https://hyko.dev) pour en savoir plus sur moi.
-- Visite ma chaîne [YouTube](https://www.youtube.com/@itshyko) pour suivre mes aventures.
-- Rejoins mon serveur [Discord](https://discord.gg/gRahh4kwKX) pour discuter avec la communauté.
+- Visit my [website](https://hyko.dev) to learn more about me.
+- Visit my [YouTube channel](https://www.youtube.com/@itshyko) to follow my adventures.
+- Join my [Discord server](https://discord.gg/gRahh4kwKX) to chat with the community.
